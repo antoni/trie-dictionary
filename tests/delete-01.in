@@ -1,0 +1,13 @@
+insert aaa
+insert aab
+insert aaba
+insert aac
+delete 1
+find aab
+insert a
+find aab
+delete 1
+delete 0
+find aab
+delete 2
+find aab

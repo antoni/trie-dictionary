@@ -1,0 +1,5 @@
+insert aaaaba
+insert aa
+prev 0 3 4
+prev 0 0 2
+insert aaaaba

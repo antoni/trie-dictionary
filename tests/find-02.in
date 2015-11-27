@@ -1,0 +1,19 @@
+find aba
+insert aaaa
+find aba
+insert aaab
+find aba
+insert aaba
+find aba
+insert aabb
+find aba
+insert abaa
+find aba
+insert abab
+find aba
+insert abba
+find aba
+insert abbb
+find aba
+clear
+find aba

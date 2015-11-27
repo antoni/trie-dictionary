@@ -1,2 +1,11 @@
-# trie-dict
-Implementation of a trie data structure to store dictionary of words
+# trie-dictionary
+Implementation of a [trie data structure](https://en.wikipedia.org/wiki/Trie) (specifically, a [Patricia/radix tree](https://en.wikipedia.org/wiki/Radix_tree)) storing a dictionary, created  during Individual Programming Project course.
+
+Full task description (in Polish).
+
+## Compilation and running
+```bash
+make
+./dictionary
+```
+Use `./run_tests.sh` for testing.

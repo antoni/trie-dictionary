@@ -1,0 +1,7 @@
+insert aa
+insert ab
+find ab
+delete 0
+find ab
+delete 1
+find ab
